@@ -6,7 +6,7 @@ This is the official implementation of our paper [Few-Shot Backdoor Attacks on V
 
 ## Pipeline
 
-![Pipeline](https://github.com/HXZhong1997/FSBA/Pipeline.png)
+![Pipeline](https://github.com/HXZhong1997/FSBA/blob/main/Pipeline.png)
 
 
 
